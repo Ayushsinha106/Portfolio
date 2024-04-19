@@ -347,6 +347,7 @@ section {
   display: flex;
   justify-content: center;
   flex-direction: column;
+  flex-flow: nowrap;
 }
 
 .article-container {
